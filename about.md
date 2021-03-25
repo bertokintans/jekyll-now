@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Un lugar para aprender a crear sitios web.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[berto_kintans@hotmail.com](mailto:email@domain.com)
